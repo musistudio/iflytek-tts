@@ -1,6 +1,6 @@
-# 基于python3的配音阁语音合成
+# 基于科大讯飞语音合成接口实现配音
 ###### 版权归 [&copy;配音阁]( http://www.peiyinge.com/anchor?speakerType=1) 所有
-
+###### 参考项目[iflytek-tts](https://github.com/musistudio/iflytek-tts) 从该项目中改进而来的。
 #### 使用方法
 ```python
 iflytek = Iflytek()
